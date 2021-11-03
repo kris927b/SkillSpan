@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
     for file in os.listdir("metrics/"):
         source, eval, model, split, _ = file.split(".")
-        with open("metrics_final/" + file, "r") as f:
+        with open("metrics/" + file, "r") as f:
             results = json.load(f)
             if split == "dev":
                 k = model2idx[str(eval + "-" + model)]
