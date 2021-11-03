@@ -1,0 +1,47 @@
+{
+    "house": {
+        "train_data_path": "data/Skills/corpus_house_large_doc_split.conll",
+        "validation_data_path": "data/Skills/corpus_house_doc_split.conll",
+        "word_idx": 0,
+        "tasks": {
+            "Skills": {
+                "task_type": "seq_bio",
+                "column_idx": 1
+            },
+            "Knowledge": {
+                "task_type": "seq_bio",
+                "column_idx": 2
+            }
+        }
+    },
+    "tech": {
+        "train_data_path": "data/Skills/corpus_tech_large_doc_split.conll",
+        "validation_data_path": "data/Skills/corpus_tech_doc_split.conll",
+        "word_idx": 0,
+        "tasks": {
+            "Skills": {
+                "task_type": "seq_bio",
+                "column_idx": 1
+            },
+            "Knowledge": {
+                "task_type": "seq_bio",
+                "column_idx": 2
+            }
+        }
+    },
+    "big": {
+        "train_data_path": "data/Skills/corpus_big_large_doc_split.conll",
+        "validation_data_path": "data/Skills/corpus_big_doc_split.conll",
+        "word_idx": 0,
+        "tasks": {
+            "Skills": {
+                "task_type": "seq_bio",
+                "column_idx": 1
+            },
+            "Knowledge": {
+                "task_type": "seq_bio",
+                "column_idx": 2
+            }
+        }
+    }
+}
