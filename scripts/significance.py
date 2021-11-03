@@ -22,7 +22,7 @@ if __name__ == "__main__":
     dev = {}
     test = {}
 
-    for file in os.listdir("metrics_final/"):
+    for file in os.listdir("metrics/"):
         source, eval, model, split, _ = file.split(".")
         with open("metrics_final/" + file, "r") as f:
             results = json.load(f)
