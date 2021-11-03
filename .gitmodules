@@ -1,0 +1,3 @@
+[submodule "machamp"]
+	path = machamp
+	url = https://github.com/machamp-nlp/machamp.git
