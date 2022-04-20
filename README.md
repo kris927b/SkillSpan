@@ -5,6 +5,15 @@ __SkillSpan: Hard and Soft Skill Extraction from Job Postings__
 
 Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, and Barbara Plank. To appear at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2022
 
+## Data
+
+As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations:
+
+__[20/04/2022]__: Currently, subset 1 (Tech) is de-identified. We are in the process of de-identifying subset 2 (House).
+
+Subset 1 (Tech): https://drive.google.com/file/d/1Ih48JiPuNUeSamINFhvupZP4g1eoaWSm/view?usp=sharing
+
+Subset 2 (House): 
 
 ## Cloning this repo
 
