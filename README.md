@@ -15,6 +15,10 @@ Subset 1 (Tech): https://drive.google.com/file/d/1Ih48JiPuNUeSamINFhvupZP4g1eoaW
 
 Subset 2 (House): 
 
+## Models
+
+All models used in this paper can be found at: https://huggingface.co/jjzha
+
 ## Cloning this repo
 
 This repo contains a submodule which contains the source code for MaChAmp (mtp). 
