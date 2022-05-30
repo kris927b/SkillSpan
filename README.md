@@ -35,6 +35,16 @@ Subset 1 (Tech): https://drive.google.com/file/d/1Ih48JiPuNUeSamINFhvupZP4g1eoaW
 
 Subset 2 (House): 
 
+The data is structured in the `conll` format:
+
+```
+Token <\t> Skill-tag <\t> Knowledge-tag
+
+e.g.,
+Python <\t> O <\t> B-Knowledge
+...
+```
+
 Place all the data in `data/Skills`
 
 ## Running the code
