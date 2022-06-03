@@ -30,6 +30,7 @@ $ git submodule update --init --recursive
 As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations:
 
 __[20/04/2022]__: Currently, subset 1 (Tech) is de-identified. We are in the process of de-identifying subset 2 (House).
+
 __[03/06/2022]__: All available subsets are de-identified. Find them below.
 
 Subset 1 (Tech): https://drive.google.com/file/d/1Ih48JiPuNUeSamINFhvupZP4g1eoaWSm/view?usp=sharing
