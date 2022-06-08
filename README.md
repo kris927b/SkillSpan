@@ -35,7 +35,7 @@ __[03/06/2022]__: All available subsets are de-identified. Find them below.
 
 Subset 1 (Tech): https://drive.google.com/file/d/1Ih48JiPuNUeSamINFhvupZP4g1eoaWSm/view?usp=sharing
 
-Subset 2 (House): https://drive.google.com/file/d/1nLSGnfmNgjk9stJY--o1aHHSz6xhINih/view?usp=sharing
+Subset 2 (House): https://drive.google.com/file/d/1RPUmsArEa30GCGSEsgacAoLciplGPEAO/view?usp=sharing
 
 The data is structured in the `conll` format:
 
