@@ -33,9 +33,11 @@ __[20/04/2022]__: Currently, subset 1 (Tech) is de-identified. We are in the pro
 
 __[03/06/2022]__: All available subsets are de-identified. Find them below.
 
-Subset 1 (Tech): https://drive.google.com/file/d/1Ih48JiPuNUeSamINFhvupZP4g1eoaWSm/view?usp=sharing
+__[06/07/2022]__: `.conll` files were weirdly formatted. Changed it.
 
-Subset 2 (House): https://drive.google.com/file/d/1RPUmsArEa30GCGSEsgacAoLciplGPEAO/view?usp=sharing
+Subset 1 (Tech): https://drive.google.com/file/d/1Xdx6CuCXZyQ9etqJphXk5vvkTu4wk5jm/view?usp=sharing
+
+Subset 2 (House): https://drive.google.com/file/d/1BDVicve-3ug-PuOTnO-Bx4l4-6Ih6r9U/view?usp=sharing
 
 The data is structured in the `conll` format:
 
