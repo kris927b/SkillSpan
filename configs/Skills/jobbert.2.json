@@ -1,4 +1,4 @@
-local transformer_model = "/data/job-postings/JobBERT";
+local transformer_model = "jjzha/jobbert-base-cased";
 local transformer_dim = 768;
 
 //local transformer_model = "xlm-roberta-large";
