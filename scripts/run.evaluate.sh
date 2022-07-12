@@ -4,7 +4,7 @@ MODEL=$1
 EXTRA=$2
 
 GPATH="data/Skills/"
-PPATH="data/$MODEL"
+PPATH="logs/$MODEL"
 
 for method in Skills Knowledge Multi
 do
