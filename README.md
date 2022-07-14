@@ -128,14 +128,19 @@ If you use the code, data, guidelines, models from SkillSpan, please include the
 
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2204.12811,
-      doi = {10.48550/ARXIV.2204.12811},
-      url = {https://arxiv.org/abs/2204.12811},
-      author = {Zhang, Mike and Jensen, Kristian Nørgaard and Sonniks, Sif Dam and Plank, Barbara},
-      keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-      title = {SkillSpan: Hard and Soft Skill Extraction from English Job Postings},
-      publisher = {arXiv},
-      year = {2022},
-      copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{zhang-etal-2022-skillspan,
+    title = "{S}kill{S}pan: Hard and Soft Skill Extraction from {E}nglish Job Postings",
+    author = "Zhang, Mike  and
+      Jensen, Kristian  and
+      Sonniks, Sif  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.366",
+    pages = "4962--4984",
+    abstract = "Skill Extraction (SE) is an important and widely-studied task useful to gain insights into labor market dynamics. However, there is a lacuna of datasets and annotation guidelines; available datasets are few and contain crowd-sourced labels on the span-level or labels from a predefined skill inventory. To address this gap, we introduce SKILLSPAN, a novel SE dataset consisting of 14.5K sentences and over 12.5K annotated spans. We release its respective guidelines created over three different sources annotated for hard and soft skills by domain experts. We introduce a BERT baseline (Devlin et al., 2019). To improve upon this baseline, we experiment with language models that are optimized for long spans (Joshi et al., 2020; Beltagy et al., 2020), continuous pre-training on the job posting domain (Han and Eisenstein, 2019; Gururangan et al., 2020), and multi-task learning (Caruana, 1997). Our results show that the domain-adapted models significantly outperform their non-adapted counterparts, and single-task outperforms multi-task learning.",
 }
 ```
