@@ -12,7 +12,7 @@ If you use the code, data, guidelines, models from SkillSpan, please include the
 @inproceedings{zhang-etal-2022-skillspan,
     title = "{S}kill{S}pan: Hard and Soft Skill Extraction from {E}nglish Job Postings",
     author = "Zhang, Mike  and
-      Jensen, Kristian  and
+      Jensen, Kristian N{\o}rgaard  and
       Sonniks, Sif  and
       Plank, Barbara",
     booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
