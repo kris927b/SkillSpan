@@ -60,6 +60,8 @@ Subset 1 (Tech): https://drive.google.com/file/d/1Xdx6CuCXZyQ9etqJphXk5vvkTu4wk5
 
 Subset 2 (House): https://drive.google.com/file/d/1BDVicve-3ug-PuOTnO-Bx4l4-6Ih6r9U/view?usp=sharing
 
+*Note:* The data can also be found now in `data/Skills/*`.
+
 The data is structured in the `conll` format:
 
 ```
