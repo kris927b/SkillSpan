@@ -6,7 +6,7 @@ EXTRA=$2
 GPATH="data/Skills/"
 PPATH="data/$MODEL"
 
-for method in Skills Knowledge Multi
+for method in skills knowledge multi
 do
     for site in house tech
     do
