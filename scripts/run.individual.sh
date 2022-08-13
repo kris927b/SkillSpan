@@ -1,7 +1,7 @@
 #!/bin/bash
 
 MODEL=$1 # e.g., jobbert
-PARAMETERS=$2 # skills | knowledge
+PARAMETERS=$2 # skills | knowledge | multi
 ITER=$3 # e.g., 1-5
 
 echo "Training $MODEL on $PARAMETERS"
