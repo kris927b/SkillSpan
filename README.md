@@ -107,12 +107,19 @@ If you rather than running all experiments wants to run individual experiments, 
 One for running an experiment as in JobBERT on Skills where it runs all 5 seeds:
 
 ```
+MODEL = bert | jobbert | spanbert | jobspanbert
+EXPERIMENT = skills | knowledge | multi
+
 bash scripts/run.experiment.sh $MODEL $EXPERIMENT
 ```
 
 And another one for running individual seed numbers within an experiment. So running JobBERT on Skills seed 1:
 
 ```
+MODEL = bert | jobbert | spanbert | jobspanbert
+EXPERIMENT = skills | knowledge | multi
+SEED = 1-5
+
 bash scripts/run.individual.sh $MODEL $EXPERIMENT $SEED
 ```
 
@@ -121,20 +128,20 @@ bash scripts/run.individual.sh $MODEL $EXPERIMENT $SEED
 To predict on the dev and test sets we have provided the following script for convenience
 
 ```
-SET = skills | skills_doc | knowledge | knowledge_doc | multi | multi_doc
+MODEL = bert | jobbert | spanbert | jobspanbert
+TYPE = skills | knowledge | multi
+SET = dev | test
 
-bash scripts/run.predict.sh $MODEL $EXPERIMENT $SET
+bash scripts/run.predict.sh $MODEL $TYPE $SET
 ```
 
-**NOTE:** the sets named "_doc" is for running the longformer.
-
-
+~~~~
 ### Evaluate the performance
 
 To evaluate the models performance run 
 
 ```
-bash scripts/run.evalaute.sh $MODEL
+bash scripts/run.evaluate.sh
 ```
 
 This will generate a bunch of metric files in which you can find the results.
