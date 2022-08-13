@@ -135,6 +135,13 @@ SET = dev | test
 bash scripts/run.predict.sh $MODEL $TYPE $SET
 ```
 
+or
+
+```
+bash scripts/run.predict.all.sh
+```
+
+
 ### Evaluate the performance
 
 To evaluate the models performance run 
