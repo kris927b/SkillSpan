@@ -41,10 +41,10 @@ def evaluate(
             FB1 = float(v[3][6:])  # FB1:  60.89
             metrics[k]["FB1"].append(FB1)
 
-    model_name = pred_files[0].split("/")[2]
-    method = pred_files[0].split("/")[-1].split(".")[0]
-    eval_set = pred_files[0].split("/")[-1].split(".")[1]
-    split = pred_files[0].split("/")[-1].split(".")[2]
+    model_name = pred_files[1].split("/")[1]
+    method = pred_files[1].split("/")[-1].split(".")[0]
+    eval_set = pred_files[1].split("/")[-1].split(".")[2]
+    split = pred_files[1].split("/")[-1].split(".")[1]
     json.dump(
         metrics, open(f"metrics/{eval_set}.{method}.{model_name}.{split}.json", "w")
     )
