@@ -135,7 +135,6 @@ SET = dev | test
 bash scripts/run.predict.sh $MODEL $TYPE $SET
 ```
 
-~~~~
 ### Evaluate the performance
 
 To evaluate the models performance run 
