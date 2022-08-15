@@ -88,7 +88,7 @@ To install all the required packagse run the following command
 pip3 install --user -r machamp/requirements.txt
 ```
 
-### Running everything
+### 1. Running everything
 
 Once you have installed the required packages, you are now ready to run the experiments. 
 
@@ -100,7 +100,7 @@ To run everything in the paper, simply call:
 bash scripts/run.all.sh
 ```
 
-### Running individual experiments
+### 1.1 Running individual experiments
 
 If you rather than running all experiments wants to run individual experiments, we have provided two scripts. 
 
@@ -123,7 +123,7 @@ SEED = 1-5
 bash scripts/run.individual.sh $MODEL $EXPERIMENT $SEED
 ```
 
-### Predicting on dev and test set
+### 2. Predicting on dev and test set
 
 To predict on the dev and test sets we have provided the following script for convenience
 
@@ -142,7 +142,7 @@ bash scripts/run.predict.all.sh
 ```
 
 
-### Evaluate the performance
+### 3. Evaluate the performance
 
 To evaluate the models performance run 
 
