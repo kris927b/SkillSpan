@@ -104,7 +104,7 @@ bash scripts/run.all.sh
 
 If you rather than running all experiments wants to run individual experiments, we have provided two scripts. 
 
-One for running an experiment as in JobBERT on Skills where it runs all 5 seeds:
+One for running an experiment on all 5 seeds:
 
 ```
 MODEL = bert | jobbert | spanbert | jobspanbert
@@ -113,7 +113,7 @@ EXPERIMENT = skills | knowledge | multi
 bash scripts/run.experiment.sh $MODEL $EXPERIMENT
 ```
 
-And another one for running individual seed numbers within an experiment. So running JobBERT on Skills seed 1:
+And another one for running individual seed numbers within an experiment:
 
 ```
 MODEL = bert | jobbert | spanbert | jobspanbert
