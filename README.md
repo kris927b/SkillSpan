@@ -1,8 +1,7 @@
 # SkillSpan Repository
 This repository contains the code and data for the paper:
 
-__SkillSpan: Hard and Soft Skill Extraction from Job Postings__
-https://aclanthology.org/2022.naacl-main.366/
+[__SkillSpan: Hard and Soft Skill Extraction from Job Postings__](https://aclanthology.org/2022.naacl-main.366/)
 
 Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, and Barbara Plank. To appear at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2022
 
@@ -49,19 +48,8 @@ $ git submodule update --init --recursive
 
 ## Data set acquisition
 
-As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations:
-
-__[20/04/2022]__: Currently, subset 1 (Tech) is de-identified. We are in the process of de-identifying subset 2 (House).
-
-__[03/06/2022]__: All available subsets are de-identified. Find them below.
-
-__[06/07/2022]__: `.conll` files were weirdly formatted. Changed it.
-
-Subset 1 (Tech): https://drive.google.com/file/d/1Xdx6CuCXZyQ9etqJphXk5vvkTu4wk5jm/view?usp=sharing
-
-Subset 2 (House): https://drive.google.com/file/d/1BDVicve-3ug-PuOTnO-Bx4l4-6Ih6r9U/view?usp=sharing
-
-*Note:* The data can also be found now in `data/Skills/*`.
+As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations.
+Please find the data in `data/Skills/*`. We indicate each job posting by a `###` separation.
 
 The data is structured in the `conll` format:
 
