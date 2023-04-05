@@ -2,6 +2,7 @@
 This repository contains the code and data for the paper:
 
 __SkillSpan: Hard and Soft Skill Extraction from Job Postings__
+https://aclanthology.org/2022.naacl-main.366/
 
 Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, and Barbara Plank. To appear at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2022
 
