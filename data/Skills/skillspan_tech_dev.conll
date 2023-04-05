@@ -1,3 +1,4 @@
+###
 DevOps	O	O
 Engineer	O	O
 (	O	O
@@ -204,7 +205,8 @@ methods	O	I-Knowledge
 practices	O	I-Knowledge
 to	O	I-Knowledge
 technologies	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 High	O	O
 level	O	O
@@ -325,7 +327,8 @@ accepts	I-Skill	O
 regular	I-Skill	O
 code	I-Skill	O
 reviews	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Deep	O	O
 experience	O	O
@@ -400,7 +403,8 @@ framework	O	I-Knowledge
 )	O	I-Knowledge
 and/or	O	O
 C#/.NET	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Python	O	O
 and/or	O	O
@@ -756,7 +760,8 @@ purism	I-Skill	O
 best-practice	I-Skill	O
 and	I-Skill	O
 solution-fit	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Collaborative	B-Skill	O
 Solutioning	I-Skill	O
@@ -825,6 +830,7 @@ at	O	O
 client	O	O
 locations	O	O
 
+###
 Senior	O	O
 DevOps	O	O
 Engineer	O	O
@@ -1097,7 +1103,8 @@ release	O	B-Knowledge
 monitoring	O	B-Knowledge
 and	O	O
 support	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -1158,7 +1165,8 @@ systems	I-Skill	O
 development	I-Skill	O
 and	I-Skill	O
 operations	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -1176,7 +1184,8 @@ providing	B-Skill	O
 detailed	I-Skill	O
 realistic	I-Skill	O
 estimates	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -1191,7 +1200,8 @@ teams	I-Skill	O
 to	O	O
 drive	B-Skill	O
 delivery	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You’ll	O	O
 also	O	O
@@ -1264,7 +1274,8 @@ and	I-Skill	O
 practical	I-Skill	O
 technical	I-Skill	O
 decisions	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -1295,7 +1306,8 @@ and	I-Skill	O
 third-party	I-Skill	O
 technical	I-Skill	O
 organisations	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 must	O	O
@@ -1316,7 +1328,8 @@ product	I-Skill	O
 and	I-Skill	O
 design	I-Skill	O
 focus	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 are	O	O
@@ -1330,7 +1343,8 @@ well	I-Skill	O
 on	I-Skill	O
 a	I-Skill	O
 team	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -1461,7 +1475,8 @@ high	I-Skill	O
 degree	I-Skill	O
 of	I-Skill	O
 accuracy	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Technical	O	O
 Skills:	O	O
@@ -1864,6 +1879,7 @@ for	O	O
 more	O	O
 information.	O	O
 
+###
 Java	O	O
 Backend	O	O
 Engineer	O	O
@@ -2403,6 +2419,7 @@ available	O	O
 at	O	O
 <CONTACT>	O	O
 
+###
 Software	O	O
 Engineer	O	O
 
@@ -2961,7 +2978,8 @@ your	O	O
 skills	O	O
 in	O	O
 DevOps	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 ⌲	O	O
 Dimension	O	B-Knowledge
@@ -3002,7 +3020,8 @@ order	O	O
 to	O	O
 provide	B-Skill	O
 information	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Someone	O	O
 who	O	O
@@ -3023,7 +3042,8 @@ and	O	O
 meet	B-Skill	O
 customer	I-Skill	O
 needs	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 MISSIONS	O	O
 :	O	O
@@ -3322,7 +3342,8 @@ a	O	O
 real	O	O
 team	B-Skill	O
 player	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 ‍	O	O
 
@@ -3420,7 +3441,8 @@ becoming	I-Skill	O
 a	I-Skill	O
 TS	I-Skill	O
 expert	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 ☞	O	O
 Bring	O	O
@@ -3735,6 +3757,7 @@ a	O	O
 dense	O	O
 ecosystem.	O	O
 
+###
 Principal	O	O
 Cloud	O	O
 Architect	O	O
@@ -3803,7 +3826,8 @@ knowledge	O	O
 and	O	O
 business	B-Skill	O
 acumen	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Leads	B-Skill	O
 technical	I-Skill	O
@@ -3857,7 +3881,8 @@ platforms	O	I-Knowledge
 mobile	O	B-Knowledge
 and	O	O
 analytics	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 With	O	O
 a	O	O
@@ -3893,7 +3918,8 @@ business	I-Skill	O
 strategies	I-Skill	O
 and	I-Skill	O
 transformations	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 Principal	O	O
@@ -3919,7 +3945,8 @@ and	O	O
 technology	O	B-Knowledge
 industry	O	I-Knowledge
 trends	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 They	O	O
 also	O	O
@@ -3930,7 +3957,8 @@ senior	I-Skill	O
 leadership	I-Skill	O
 and	I-Skill	O
 teams	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 What	O	O
 You	O	O
@@ -4006,7 +4034,8 @@ strategies	I-Skill	O
 standards	I-Skill	O
 and	I-Skill	O
 guidelines	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 Enterprise	O	O
@@ -4474,6 +4503,7 @@ and	O	O
 flexible	O	O
 environment.	O	O
 
+###
 Full	O	O
 Stack	O	O
 Java	O	O
@@ -4602,7 +4632,8 @@ development	I-Skill	O
 and	O	O
 data	B-Skill	O
 integration	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -4785,7 +4816,8 @@ Mathematics	O	B-Knowledge
 Software	O	B-Knowledge
 Engineering	O	I-Knowledge
 Physics	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Familiarity	O	O
 with	O	O
@@ -4817,7 +4849,8 @@ of	O	I-Knowledge
 what	O	I-Knowledge
 you’re	O	I-Knowledge
 building	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Proficiency	O	O
 with	O	O
@@ -4845,7 +4878,8 @@ technical	I-Skill	O
 and	I-Skill	O
 non-technical	I-Skill	O
 individuals	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Skill	O	O
 and	O	O
@@ -4878,7 +4912,8 @@ decisions	I-Skill	O
 with	I-Skill	O
 minimal	I-Skill	O
 supervision	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Willingness	B-Skill	O
 and	I-Skill	O
@@ -5128,6 +5163,7 @@ by	O	O
 
 Magazine.	O	O
 
+###
 Frontend	O	O
 Engineer	O	O
 
@@ -5718,6 +5754,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Senior	O	O
 .	O	O
 NET	O	O
@@ -6032,6 +6069,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Principal	O	O
 Developer	O	O
 -	O	O
@@ -6168,7 +6206,8 @@ capability	I-Skill	O
 across	I-Skill	O
 the	I-Skill	O
 profession	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Our	O	O
 software	O	O
@@ -6259,7 +6298,8 @@ thrive	O	O
 using	O	O
 agile	O	B-Knowledge
 methods	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 You'll	O	O
 be	O	O
@@ -6301,7 +6341,8 @@ new	I-Skill	O
 and	I-Skill	O
 live	I-Skill	O
 services	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Through	O	O
 improving	B-Skill	O
@@ -6349,7 +6390,8 @@ and	I-Skill	O
 mentoring	I-Skill	O
 team	I-Skill	O
 members	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Through	O	O
 engaging	B-Skill	O
@@ -6406,7 +6448,8 @@ a	I-Skill	O
 number	I-Skill	O
 of	I-Skill	O
 teams	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Your	O	O
 key	O	O
@@ -6820,6 +6863,7 @@ hear	O	O
 from	O	O
 you.	O	O
 
+###
 React/HTML5	O	O
 Tech	O	O
 lead	O	O
@@ -6948,7 +6992,8 @@ in	I-Skill	O
 an	I-Skill	O
 agile	I-Skill	O
 environment	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -7254,6 +7299,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Software	O	O
 Engineer	O	O
 <ORGANIZATION>	O	O
@@ -7490,7 +7536,8 @@ being	B-Skill	O
 hands	I-Skill	O
 on	I-Skill	O
 technically	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You’ll	O	O
 work	B-Skill	O
@@ -7677,6 +7724,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Senior	O	O
 Fullstack	O	O
 Engineer	O	O
@@ -8183,7 +8231,8 @@ patterns	I-Skill	O
 and	I-Skill	O
 coding	I-Skill	O
 standards	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Requirements:	O	O
 
@@ -8680,6 +8729,7 @@ into	O	O
 the	O	O
 future.	O	O
 
+###
 Site	O	O
 Reliability	O	O
 Engineer	O	O
@@ -8982,7 +9032,8 @@ a	I-Skill	O
 lot	I-Skill	O
 from	I-Skill	O
 scratch	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You’ll	O	O
 help	B-Skill	O
@@ -8992,7 +9043,8 @@ move	I-Skill	O
 faster	I-Skill	O
 and	I-Skill	O
 better	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 In	O	O
 this	O	O
@@ -9602,6 +9654,7 @@ pretty	O	O
 sweet	O	O
 deal.	O	O
 
+###
 Senior	O	O
 Embedded	O	O
 Systems	O	O
@@ -9752,7 +9805,8 @@ the	I-Skill	O
 bottom	I-Skill	O
 of	I-Skill	O
 things	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 In	O	O
 short	O	O
@@ -9830,7 +9884,8 @@ system	O	B-Knowledge
 design	O	I-Knowledge
 and	O	O
 firmware	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 After	O	O
 a	O	O
@@ -9891,7 +9946,8 @@ tools	O	B-Knowledge
 and	O	O
 cloud	O	B-Knowledge
 technology	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 In	O	O
 your	O	O
@@ -10366,6 +10422,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Senior	O	O
 Backend	O	O
 Developer	O	O
@@ -10670,7 +10727,8 @@ to	I-Skill	O
 learn	I-Skill	O
 new	I-Skill	O
 things	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We’re	O	O
 looking	O	O
@@ -10691,7 +10749,8 @@ and	O	O
 embraces	B-Skill	O
 team	I-Skill	O
 work	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Don’t	O	O
 worry	O	O
@@ -10736,14 +10795,16 @@ in	O	O
 general	O	O
 
 Databases	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 We	O	O
 use	O	O
 PostgreSQL	O	B-Knowledge
 and	O	O
 DynamoDB	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Memes	O	O
 ー	O	O
@@ -11142,6 +11203,7 @@ everyone	O	O
 around	O	O
 us.	O	O
 
+###
 (	O	O
 Sen.	O	O
 )	O	O
@@ -11955,6 +12017,7 @@ is	O	O
 your	O	O
 chance!	O	O
 
+###
 Software	O	O
 Developer	O	O
 (	O	O
@@ -12199,7 +12262,8 @@ in	O	O
 an	O	O
 agile	O	B-Knowledge
 environment	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 You	O	O
 have	O	O
@@ -12214,7 +12278,8 @@ outstanding	I-Skill	O
 and	I-Skill	O
 efficient	I-Skill	O
 solutions	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -12465,6 +12530,7 @@ touch	O	O
 with	O	O
 you.	O	O
 
+###
 Front	O	O
 End	O	O
 Developer	O	O
@@ -12574,7 +12640,8 @@ to	I-Skill	O
 higher	I-Skill	O
 level	I-Skill	O
 tasks	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 This	O	O
 is	O	O
@@ -12599,7 +12666,8 @@ technical	I-Skill	O
 product	I-Skill	O
 roadmap	I-Skill	O
 level	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 are	O	O
@@ -12652,7 +12720,8 @@ backend	O	O
 via	O	O
 RESTful	O	B-Knowledge
 API	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Extensive	O	O
 front-end	O	B-Knowledge
@@ -12703,7 +12772,8 @@ and	O	O
 great	O	O
 team	B-Skill	O
 spirit	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 predominantly	O	O
@@ -12727,7 +12797,8 @@ morning	O	O
 via	O	O
 Google	O	B-Knowledge
 Hangouts	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 BitBucket	O	O
 is	O	O
@@ -12873,14 +12944,16 @@ our	I-Skill	O
 overarching	I-Skill	O
 product	I-Skill	O
 offering	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 like	O	O
 solving	B-Skill	O
 big	I-Skill	O
 problems	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Our	O	O
 greatest	O	O
@@ -12926,7 +12999,8 @@ and	I-Skill	O
 getting	I-Skill	O
 lots	I-Skill	O
 done	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 have	O	O
@@ -12958,7 +13032,8 @@ end	I-Skill	O
 working	I-Skill	O
 stable	I-Skill	O
 products	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 have	O	O
@@ -12985,7 +13060,8 @@ in	I-Skill	O
 a	I-Skill	O
 compelling	I-Skill	O
 way	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Our	O	O
 customers	O	O
@@ -13282,6 +13358,7 @@ along	O	O
 the	O	O
 discounts!	O	O
 
+###
 Performance	O	O
 Engineer	O	O
 Microservices	O	O
@@ -13444,7 +13521,8 @@ in	O	O
 JEE-based	O	B-Knowledge
 Web	O	I-Knowledge
 applications	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -13894,6 +13972,7 @@ available	O	O
 at	O	O
 <CONTACT>	O	O
 
+###
 Engineering	O	O
 Manager	O	O
 
@@ -14072,7 +14151,8 @@ and	I-Skill	O
 a	I-Skill	O
 people	I-Skill	O
 manager	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Coaching	B-Skill	O
 and	I-Skill	O
@@ -14945,6 +15025,7 @@ just	O	O
 the	O	O
 beginning!	O	O
 
+###
 Software	O	O
 Engineer	O	O
 -	O	O
@@ -15013,7 +15094,8 @@ innovation	I-Skill	O
 and	I-Skill	O
 engineering	I-Skill	O
 practices	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -15054,7 +15136,8 @@ focused	I-Skill	O
 on	I-Skill	O
 common	I-Skill	O
 goals	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 embrace	O	O
@@ -15386,6 +15469,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Mobile	O	O
 Engineer	O	O
 (	O	O
@@ -15904,6 +15988,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Java	O	O
 Developer	O	O
 –	O	O
@@ -16086,7 +16171,8 @@ analyses	I-Skill	O
 of	I-Skill	O
 production	I-Skill	O
 incidents	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Experience:	O	O
 
@@ -16649,6 +16735,7 @@ spirit	O	O
 &	O	O
 fun!	O	O
 
+###
 Java	O	O
 Developer	O	O
 Digital	O	O
@@ -16732,11 +16819,6 @@ Remote	O	O
 
 Company	O	O
 Description	O	O
-
-We	O	O
-pledge	O	O
-to O O O prove O O O IT O O O can O O O make O O O a O O O real O O O difference O O O to O O O our O O O customer's O O O businesses	O	O
-.	O	O
 
 We	O	O
 work	O	O
@@ -16962,7 +17044,8 @@ and	I-Skill	O
 supporting	I-Skill	O
 system	I-Skill	O
 testing	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Project	O	O
 methodologies	O	O
@@ -16971,7 +17054,8 @@ both	O	O
 Waterfall	O	B-Knowledge
 and	O	O
 Agile	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Essential	O	O
 criteria	O	O
@@ -17002,7 +17086,8 @@ communications	B-Skill	O
 skills	I-Skill	O
 and	O	O
 teamwork	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 encourage	O	O
@@ -17246,6 +17331,7 @@ motto	O	O
 Your	O	O
 Difference“.	O	O
 
+###
 <ORGANIZATION>	O	O
 Cloud	O	O
 Services	O	O
@@ -17478,7 +17564,8 @@ business	I-Skill	O
 and	I-Skill	O
 product	I-Skill	O
 goals	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 hire	O	O
@@ -17503,7 +17590,8 @@ cloud	O	O
 offering:	O	O
 Cloud	O	B-Knowledge
 Services	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 best	O	O
@@ -17718,7 +17806,8 @@ a	I-Skill	O
 strong	I-Skill	O
 entrepreneurial	I-Skill	O
 spirit	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 If	O	O
 you	O	O
@@ -17796,7 +17885,8 @@ and	I-Skill	O
 leading	I-Skill	O
 technical	I-Skill	O
 teams	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Strong	O	O
 emphasis	O	O
@@ -17811,7 +17901,8 @@ a	O	O
 focus	O	O
 on	O	O
 automation	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Superb	O	O
 interpersonal	B-Skill	O
@@ -17830,7 +17921,8 @@ varying	I-Skill	O
 levels	I-Skill	O
 of	I-Skill	O
 management	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Proven	O	O
 project	B-Skill	O
@@ -17840,7 +17932,8 @@ including	O	O
 excellent	O	O
 presentation	B-Skill	O
 skills	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -17889,7 +17982,8 @@ technologies	I-Skill	O
 including	O	O
 Docker	O	B-Knowledge
 kubernetes	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Proficient	O	O
 with	O	O
@@ -17906,7 +18000,8 @@ or	I-Skill	O
 integration	I-Skill	O
 with	I-Skill	O
 APIs	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Understanding	O	O
 of	O	O
@@ -18225,6 +18320,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Frontend-Developer	O	O
 (	O	O
 m/f/d	O	O
@@ -18412,7 +18508,8 @@ programming	O	I-Knowledge
 and	O	O
 code	O	B-Knowledge
 reviews	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 After	O	O
 some	O	O
@@ -18458,7 +18555,8 @@ to	O	O
 set	B-Skill	O
 clear	I-Skill	O
 expectations	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Besides	O	O
 your	O	O
@@ -18744,7 +18842,38 @@ the	O	O
 Company	O	O
 description:	O	O
 
-Do        O        O        O you        O        O        O like        O        O        O to        O        O        O deploy        B-Skill        O        O accessible        I-Skill        O        O security        I-Skill        O        O scanned        I-Skill        O        O code        I-Skill        O        O reviewed        I-Skill        O        O maintainable        I-Skill        O        O software        I-Skill        O        O in        O        O        O a        O        O        O matter        O        O        O of        O        O        O minutes        O        O        O to        O        O        O millions        O        O        O of        O        O        O users        O        O        O all        O        O        O across        O        O        O the        O        O        O globe?        O        O        O Then        O        O        O TOPdesk        B-Organization        O        O is        O        O        O the        O        O        O place        O        O        O for        O        O        O you!	O	O
+Do	O	O
+you	O	O
+like	O	O
+to	O	O
+deploy	B-Skill	O
+accessible	I-Skill	O
+security	I-Skill	O
+scanned	I-Skill	O
+code	I-Skill	O
+reviewed	I-Skill	O
+maintainable	I-Skill	O
+software	I-Skill	O
+in	O	O
+a	O	O
+matter	O	O
+of	O	O
+minutes	O	O
+to	O	O
+millions	O	O
+of	O	O
+users	O	O
+all	O	O
+across	O	O
+the	O	O
+globe?	O	O
+Then	O	O
+<ORGANIZATION>	O	O
+is	O	O
+the	O	O
+place	O	O
+for	O	O
+you!	O	O
 
 Personal	O	O
 development?	O	O
@@ -19135,51 +19264,6 @@ at	O	O
 <ORGANIZATION>	O	O
 .	O	O
 
-We	O	O
-work	O	O
-closely	O	O
-with	O	O
-Sales	O	O
-Consultancy	O	O
-and	O	O
-Support	O	O
-to	O	O
-learn	O	O
-more	O	O
-about	O	O
-how	O	O
-our	O	O
-customers	O	O
-work	O	O
-and	O	O
-how	O	O
-we	O	O
-can	O	O
-make	O	O
-life	O	O
-easier	O	O
-for	O	O
-them	O	O
-.	O	O
-
-Customers	O	O
-that	O	O
-vary	O	O
-from	O	O
-universities	O	O
-to	O	O
-hospitals	O	O
-from	O	O
-National	O	O
-Government	O	O
-to	O	O
-international	O	O
-facility	O	O
-organizations	O	O
-.	O	O
-
-TOPdesk        B-Organization        O        O is        O        O        O getting        O        O        O more        O        O        O and        O        O        O more        O        O        O users        O        O        O so        O        O        O one        O        O        O thing        O        O        O we        O        O        O keep        O        O        O learning        O        O        O is        O        O        O how        O        O        O to        O        O        O monitor        O        O        O and        O        O        O troubleshoot        O        O        O large-scale        O        O        O systems        O        O        O .        O        O        O          This        O        O        O is        O        O        O a        O        O        O challenge        O        O        O that        O        O        O I        O        O        O enjoy        O        O        O a        O        O        O lot        O        O        O and        O        O        O every        O        O        O day        O        O        O I        O        O        O get        O        O        O interesting        O        O        O problems        O        O        O to        O        O        O solve        O        O        O with        O        O        O my        O        O        O team        O        O        O .        O        O        O          One        O        O        O more        O        O        O thing        O        O        O I        O        O        O really        O        O        O like        O        O        O the        O        O        O inclusive        O        O        O culture        O        O        O at        O        O        O TOPdesk:        B-Organization        O        O I’ve        O        O        O always        O        O        O felt        O        O        O welcome        O        O        O as        O        O        O a        O        O        O woman        O        O        O programmer        O        O        O and        O        O        O many        O        O        O of        O        O        O our        O        O        O teams        O        O        O are        O        O        O multi-national.	O	O
-
 About	O	O
 the	O	O
 team	O	O
@@ -19420,6 +19504,7 @@ we’re	O	O
 going	O	O
 in.	O	O
 
+###
 EMEA	O	O
 Social	O	O
 Engineering	O	O
@@ -19560,7 +19645,8 @@ including	O	I-Knowledge
 incident	O	I-Knowledge
 response	O	B-Knowledge
 methodologies	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 *	O	O
 Acting	O	O
@@ -19891,7 +19977,8 @@ products/services	I-Skill	O
 within	I-Skill	O
 strict	I-Skill	O
 deadlines	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 *	O	O
 Experience	O	O
@@ -20160,6 +20247,7 @@ description:	O	O
 
 <DESCRIPTION>	O	O
 
+###
 Senior	O	O
 Linux	O	O
 Developer	O	O
@@ -20465,7 +20553,8 @@ validation	O	B-Knowledge
 post-release	O	B-Knowledge
 support	O	I-Knowledge
 activities	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Most	O	O
 part	O	O
@@ -20476,7 +20565,8 @@ includes	O	O
 direct	O	O
 code	B-Skill	O
 creation	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Implementing	O	O
 unit	B-Skill	O
@@ -20554,7 +20644,8 @@ needs	I-Skill	O
 and	I-Skill	O
 product	I-Skill	O
 requirements	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Qualifications	O	O
 
@@ -20588,7 +20679,8 @@ position	O	O
 Strong	O	O
 Programming	B-Skill	O
 Skills	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 At	O	O
 least	O	O
@@ -20716,7 +20808,8 @@ development/enhancements	O	I-Knowledge
 including	O	O
 network	O	B-Knowledge
 virtualization	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Fluent	O	O
 in	O	O
@@ -20899,18 +20992,11 @@ invigorating.”	O	O
 oneAPI	O	O
 engineer	O	O
 
-Every        O        O        O day        O        O        O is        O        O        O exciting        O        O        O as        O        O        O I        O        O        O get        O        O        O to        O        O        O develop        O        O        O automation        O        O        O around        O        O        O cutting-edge        O        O        O technologies        O        O        O (        O        O        O AI/Machine        O        O        O Learning        O        O        O cloud-scale        O        O        O apps)        O        O        O Cloud        O        O        O Service        O        O        O Providers        O        O        O (        O        O        O Amazon        O        O        O Web        O        O        O Services        O        O        O Microsoft        O        O        O Azure        O        O        O Google        O        O        O Cloud        O        O        O Platform)        O        O        O and        O        O        O hardware        O        O        O .        O        O        O          This        O        O        O automation        O        O        O enables        O        O        O our        O        O        O engineers        O        O        O to        O        O        O extract        O        O        O the        O        O        O utmost        O        O        O performance        O        O        O out        O        O        O of        O        O        O Intel        B-Organization        O        B-Organization products        O        O        O and        O        O        O deliver        O        O        O that        O        O        O value        O        O        O to        O        O        O our        O        O        O customers        O        O        O whether        O        O        O it's        O        O        O on        O        O        O older        O        O        O current        O        O        O next-gen        O        O        O hardware.-Jeff	O	O
-Cloud	O	O
-Software	O	O
-Engineer	O	O
-I O O O get O O O to O O O work O O O with O O O some O O O of O O O the O O O brightest O O O AI O O O minds O O O in O O O the O O O world O O O and O O O work O O O across O O O Intel's O O O software O O O and O O O hardware O O O teams O O O to O O O ensure O O O Intel O O B-Organization delivers O O O the O O O highest O O O AI O O O performance O O O to O O O our O O O customers O O O . O O O   It O O O is O O O exceptionally O O O rewarding O O O to O O O contribute O O O to O O O the O O O rapid O O O AI O O O innovation O O O and O O O keeps O O O my O O O AI O O O software O O O processor O O O and O O O platform O O O skills O O O sharpened.-Andres	O	O
-Sr	O	O
-.	O	O
-
 Principle	O	O
 AI	O	O
 Engineer	O	O
 
+###
 SENIOR	O	O
 BPMN	O	O
 CAMUNDA	O	O
@@ -22116,7 +22202,8 @@ power	I-Skill	O
 our	I-Skill	O
 data	I-Skill	O
 ecosystem	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 work	O	O
@@ -22224,7 +22311,8 @@ analytics	O	B-Knowledge
 and	O	O
 data	O	B-Knowledge
 science	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Contribute	O	O
 to	O	O
@@ -22283,7 +22371,8 @@ with:	O	O
 
 Python	O	B-Knowledge
 3	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Airflow	O	O
 Singer	O	B-Knowledge
@@ -22308,7 +22397,8 @@ owning	O	O
 a	O	O
 Data	O	B-Knowledge
 Warehouse	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 DevOps	O	O
 experience	O	O
@@ -22335,7 +22425,8 @@ fundamentals	O	O
 of	O	O
 MPP	O	B-Knowledge
 architectures	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 We	O	O
 ship	O	O

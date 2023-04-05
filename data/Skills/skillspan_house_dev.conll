@@ -1,3 +1,4 @@
+###
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -35,7 +36,8 @@ Ubiquitous	O	I-Knowledge
 and	O	I-Knowledge
 Wearable	O	I-Knowledge
 Computing	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 position	O	O
@@ -345,7 +347,8 @@ reports	O	I-Knowledge
 and	O	O
 scientific	O	B-Knowledge
 papers	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Other	O	O
 content	O	O
@@ -688,7 +691,8 @@ please	O	O
 open	O	O
 the	O	O
 link	O	O
-Apply O O O online,	O	O
+Apply	O	O
+online,	O	O
 fill	O	O
 in	O	O
 the	O	O
@@ -984,6 +988,7 @@ and	O	O
 public	O	O
 agencies.	O	O
 
+###
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -1183,7 +1188,8 @@ robots	O	I-Knowledge
 robot	O	B-Knowledge
 manipulation	O	I-Knowledge
 control	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 successful	O	O
@@ -1400,7 +1406,8 @@ qualification	O	O
 is	O	O
 a	O	O
 PhD	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 If	O	O
 special	O	O
@@ -1688,6 +1695,7 @@ Odense	O	O
 Application	O	O
 deadline:29/09/2017	O	O
 
+###
 A	O	O
 position	O	O
 as	O	O
@@ -1739,7 +1747,14 @@ the	O	O
 on-going	O	O
 research	O	O
 project	O	O
-The O O O impact O O O of O O O a O O O Europeanisation O O O of O O O property O O O law	O	O
+The	O	O
+impact	O	O
+of	O	O
+a	O	O
+Europeanisation	O	O
+of	O	O
+property	O	O
+law	O	O
 carried	O	O
 out	O	O
 at	O	O
@@ -1802,7 +1817,8 @@ development	B-Skill	O
 of	I-Skill	O
 the	I-Skill	O
 project	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 focus	O	O
@@ -1841,7 +1857,13 @@ DCFR	O	I-Knowledge
 )	O	I-Knowledge
 Book	O	I-Knowledge
 VIII	O	I-Knowledge
-Acquisition O O O and O O O loss O O O of O O O ownership O O O of O O O goods	O	O
+Acquisition	O	O
+and	O	O
+loss	O	O
+of	O	O
+ownership	O	O
+of	O	O
+goods	O	O
 and	O	O
 the	O	O
 legal	O	O
@@ -1874,7 +1896,8 @@ law	O	I-Knowledge
 rules	O	I-Knowledge
 of	O	I-Knowledge
 <LOCATION>	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 postdoctoral	O	O
@@ -1908,7 +1931,8 @@ publication	I-Skill	O
 of	I-Skill	O
 conference	I-Skill	O
 papers	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 postdoctoral	O	O
@@ -1954,7 +1978,8 @@ research	I-Skill	O
 and	I-Skill	O
 teaching	I-Skill	O
 environment	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Your	O	O
 physical	B-Skill	O
@@ -1997,7 +2022,8 @@ area	O	O
 of	O	O
 property	O	B-Knowledge
 law	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Experience	O	O
 with	O	O
@@ -2028,7 +2054,8 @@ preferably	O	O
 proficient	O	O
 in	O	O
 German	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Potential	O	O
 candidates	O	O
@@ -2793,7 +2820,7 @@ at	O	O
 <CONTACT>	O	O
 ;	O	O
 
--	O	O
+###
 challenging	O	O
 position	O	O
 with	O	O
@@ -3036,7 +3063,8 @@ the	I-Skill	O
 Service	I-Skill	O
 Supply	I-Skill	O
 Chain	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 More	O	O
 specifically	O	O
@@ -3151,7 +3179,8 @@ within	O	O
 maintenance	O	B-Knowledge
 or	O	O
 service	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 In	O	O
 addition	O	O
@@ -3162,7 +3191,8 @@ in	O	O
 handling	B-Skill	O
 technical	I-Skill	O
 specifications	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 As	O	O
 a	O	O
@@ -3192,7 +3222,8 @@ on	I-Skill	O
 the	I-Skill	O
 important	I-Skill	O
 issues	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Besides	O	O
 you	O	O
@@ -3213,7 +3244,8 @@ an	I-Skill	O
 international	I-Skill	O
 multicultural	I-Skill	O
 environment	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 possess	O	O
@@ -3305,6 +3337,7 @@ Job	O	O
 no.:	O	O
 88904	O	O
 
+###
 Description	O	O
 
 We	O	O
@@ -3328,7 +3361,8 @@ neutral	O	B-Knowledge
 pH	O	I-Knowledge
 dairy	O	I-Knowledge
 products	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -3418,7 +3452,8 @@ emulsifiers	O	B-Knowledge
 hydrocol­loids	O	B-Knowledge
 and	O	O
 enzymes	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -3437,7 +3472,8 @@ for	O	O
 the	O	O
 dairy	O	B-Knowledge
 industry	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 We	O	O
 have	O	O
@@ -3616,7 +3652,8 @@ dairy	O	B-Knowledge
 chemistry	O	I-Knowledge
 powder	O	B-Knowledge
 processing	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Your	O	O
 working	O	O
@@ -3633,7 +3670,8 @@ in	I-Skill	O
 a	I-Skill	O
 high	I-Skill	O
 quality	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -3650,7 +3688,8 @@ reaching	B-Skill	O
 common	I-Skill	O
 business	I-Skill	O
 objectives	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 This	O	O
 demands	O	O
@@ -3668,7 +3707,8 @@ be	O	O
 a	O	O
 good	O	O
 team-player	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 have	O	O
@@ -3752,6 +3792,7 @@ more	O	O
 at:	O	O
 <CONTACT>	O	O
 
+###
 Do	O	O
 you	O	O
 have	O	O
@@ -3890,7 +3931,8 @@ small	O	B-Knowledge
 scale	O	I-Knowledge
 conservation	O	I-Knowledge
 enterprises	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 <ORGANIZATION>	O	O
 launched	O	O
@@ -4035,7 +4077,8 @@ in	I-Skill	O
 harmony	I-Skill	O
 with	I-Skill	O
 nature	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 mission	O	O
@@ -4439,7 +4482,8 @@ projects	I-Skill	O
 landscapes	I-Skill	O
 and	I-Skill	O
 continents	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 He	O	O
 or	O	O
@@ -4480,7 +4524,8 @@ administration	I-Skill	O
 and	O	O
 budget	B-Skill	O
 management	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 position	O	O
@@ -4605,7 +4650,8 @@ financing	I-Skill	I-Knowledge
 for	I-Skill	O
 community-based	I-Skill	O
 organizations	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 In	O	O
 this	O	O
@@ -4659,7 +4705,8 @@ business	I-Skill	O
 case	I-Skill	O
 for	I-Skill	O
 action	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Work	O	O
 across	O	O
@@ -4847,7 +4894,8 @@ skills	I-Skill	O
 networks	I-Skill	O
 and	I-Skill	O
 finance	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Manage	O	O
 Nature	O	O
@@ -4890,7 +4938,8 @@ society/	O	I-Knowledge
 local	O	B-Knowledge
 community	O	I-Knowledge
 support	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 E.g	O	O
 .	O	O
@@ -4907,7 +4956,8 @@ to	O	O
 strengthen	B-Skill	O
 community-based	I-Skill	O
 organizations	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Contribute	B-Skill	O
 to	I-Skill	O
@@ -5074,7 +5124,8 @@ south	I-Skill	O
 <LOCATION>	I-Skill	O
 <LOCATION>	I-Skill	O
 <LOCATION>	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 MBA	O	B-Knowledge
 or	O	I-Knowledge
@@ -5145,7 +5196,8 @@ from	I-Skill	O
 the	I-Skill	O
 ground	I-Skill	O
 up	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Proven	O	O
 knowledge	O	O
@@ -5157,7 +5209,8 @@ market	O	I-Knowledge
 &	O	I-Knowledge
 business	O	I-Knowledge
 dynamics	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Demonstrated	O	O
 experience	O	O
@@ -5177,7 +5230,8 @@ the	I-Skill	O
 capacity	I-Skill	O
 of	I-Skill	O
 partners	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 A	O	O
 network	O	O
@@ -5222,7 +5276,8 @@ interact	B-Skill	O
 with	I-Skill	O
 senior	I-Skill	O
 leaders	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Analytical	B-Skill	O
 and	I-Skill	O
@@ -5239,14 +5294,16 @@ strategic	I-Skill	O
 and	I-Skill	O
 operational	I-Skill	O
 direction	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Proven	O	O
 ability	O	O
 to	O	O
 deliver	B-Skill	O
 results	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Strong	O	O
 team	B-Skill	O
@@ -5255,7 +5312,8 @@ and	O	O
 internal	B-Skill	O
 organizational	I-Skill	O
 networker	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Excellent	O	O
 written	O	O
@@ -5263,7 +5321,8 @@ and	O	O
 verbal	O	O
 communication	B-Skill	O
 skills	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Adheres	O	O
 to	O	O
@@ -5276,7 +5335,8 @@ Optimistic	B-Skill	O
 Determined	B-Skill	O
 and	O	O
 Engaging	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 More	O	O
 information	O	O
@@ -5398,6 +5458,7 @@ st	O	O
 of	O	O
 May.	O	O
 
+###
 Looking	O	O
 for	O	O
 a	O	O
@@ -5441,7 +5502,8 @@ work	O	O
 while	O	O
 speaking	O	O
 swedish	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 We	O	O
 are	O	O
@@ -5589,8 +5651,9 @@ to	O	O
 mail	O	O
 or	O	O
 phone	O	O
-Marie.	O	O
+<NAME>.	O	O
 
+###
 The	O	O
 Biological	O	O
 and	O	O
@@ -5631,7 +5694,8 @@ field	O	O
 of	O	O
 Materials	O	B-Knowledge
 Engineering	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 positions	O	O
@@ -5803,7 +5867,8 @@ related	O	O
 to	O	O
 materials	O	B-Knowledge
 engineering	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Possible	O	O
 topics	O	O
@@ -5871,7 +5936,8 @@ as	O	O
 end	O	B-Knowledge
 user	O	I-Knowledge
 consumption	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Ability	O	O
 to	O	O
@@ -5946,7 +6012,8 @@ and	O	O
 verbal	O	O
 communication	B-Skill	O
 skills	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Relevant	O	O
 industrial	O	B-Knowledge
@@ -6013,7 +6080,8 @@ the	I-Skill	O
 current	I-Skill	O
 research	I-Skill	O
 activities	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Commitment	O	O
 to	O	O
@@ -6061,7 +6129,8 @@ outstanding	O	O
 research	B-Skill	O
 and	O	O
 teaching	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Some	O	O
 years	O	O
@@ -7012,6 +7081,7 @@ Deadline:	O	O
 April	O	O
 2019	O	O
 
+###
 The	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -7284,7 +7354,8 @@ other	O	O
 types	O	O
 of	O	O
 presentations	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Background:	O	O
 The	O	O
@@ -7765,7 +7836,8 @@ substrates	I-Skill	O
 in	I-Skill	O
 human	I-Skill	O
 diseases	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 can	O	O
@@ -7792,7 +7864,8 @@ biochemistry	O	B-Knowledge
 or	O	O
 human	O	B-Knowledge
 biology	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Strong	O	O
 motivation	B-Skill	O
@@ -7863,7 +7936,8 @@ scientific	I-Skill	O
 or	I-Skill	O
 technical	I-Skill	O
 solutions	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Demonstrate	O	O
 enthusiasm	B-Skill	O
@@ -7871,7 +7945,8 @@ motivation	B-Skill	O
 flexibility	B-Skill	O
 and	O	O
 confidence	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Prior	O	O
 experience	O	O
@@ -7919,7 +7994,17 @@ the	O	O
 rules	O	O
 stipulated	O	O
 in	O	O
-Bekendtgørelse O O O Nr O O O . O O O   18 O O O af O O O 14 O O O . O O O   januar O O O 2008 O O O om O O O ph.d.-graden	O	O
+Bekendtgørelse	O	O
+Nr	O	O
+.	O	O
+  18	O	O
+af	O	O
+14	O	O
+.	O	O
+  januar	O	O
+2008	O	O
+om	O	O
+ph.d.-graden	O	O
 .	O	O
 
 To	O	O
@@ -7952,7 +8037,8 @@ your	O	O
 application	O	O
 by	O	O
 clicking	O	O
-Apply O O O online	O	O
+Apply	O	O
+online	O	O
 below	O	O
 .	O	O
 
@@ -8203,6 +8289,7 @@ sundhedsvidenskab	O	O
 og	O	O
 teologi.	O	O
 
+###
 (	O	O
 Location:	O	O
 <LOCATION>	O	O
@@ -8574,6 +8661,7 @@ the	O	O
 right	O	O
 candidate.	O	O
 
+###
 The	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -8642,7 +8730,8 @@ to	O	O
 support	B-Skill	O
 the	I-Skill	O
 Director	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -8818,7 +8907,8 @@ attitude	I-Skill	O
 to	I-Skill	O
 new	I-Skill	O
 challenges	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 have	O	O
@@ -8858,7 +8948,8 @@ close	I-Skill	O
 follow-up	I-Skill	O
 on	I-Skill	O
 tasks	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 As	O	O
 a	O	O
@@ -8884,7 +8975,8 @@ great	I-Skill	O
 variation	I-Skill	O
 of	I-Skill	O
 tasks	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -8906,7 +8998,8 @@ quality	I-Skill	O
 detail	I-Skill	O
 and	I-Skill	O
 deadlines	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -8918,7 +9011,8 @@ information	I-Skill	O
 with	I-Skill	O
 great	I-Skill	O
 care	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 What	O	O
 we	O	O
@@ -9174,6 +9268,7 @@ and	O	O
 public	O	O
 agencies.	O	O
 
+###
 The	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -9602,7 +9697,8 @@ well	I-Skill	O
 as	I-Skill	O
 methodological	I-Skill	O
 approaches	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 research	O	O
@@ -9617,7 +9713,8 @@ socio-economics	O	B-Knowledge
 and	O	O
 economic	O	B-Knowledge
 theory	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Research	O	O
 methods	O	O
@@ -9649,7 +9746,8 @@ data	I-Skill	O
 collection	I-Skill	O
 and	I-Skill	O
 analysis	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Qualifications	O	O
 
@@ -9695,7 +9793,8 @@ adaptation	O	I-Knowledge
 in	O	I-Knowledge
 developing	O	I-Knowledge
 countries	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Strong	O	O
 oral	O	O
@@ -9744,7 +9843,8 @@ work	I-Skill	O
 in	I-Skill	O
 developing	I-Skill	O
 countries	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Candidates	O	O
 are	O	O
@@ -10065,7 +10165,8 @@ please	O	O
 open	O	O
 the	O	O
 link	O	O
-Apply O O O online,	O	O
+Apply	O	O
+online,	O	O
 fill	O	O
 in	O	O
 the	O	O
@@ -10255,6 +10356,7 @@ and	O	O
 public	O	O
 agencies.	O	O
 
+###
 Can	O	O
 you	O	O
 drive	B-Skill	O
@@ -10430,7 +10532,8 @@ compliance	O	B-Knowledge
 simplification	O	B-Knowledge
 and	O	O
 digitalisation	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Your	O	O
 main	O	O
@@ -10475,7 +10578,8 @@ efficient	I-Skill	O
 execution	I-Skill	O
 and	I-Skill	O
 reliability	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -10502,7 +10606,8 @@ agile	O	B-Knowledge
 development	O	I-Knowledge
 and	O	I-Knowledge
 execution	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 role	O	O
@@ -10534,7 +10639,8 @@ digitalization	O	B-Knowledge
 compliance	O	B-Knowledge
 and	O	O
 simplification	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Since	O	O
 Customer	O	O
@@ -10669,7 +10775,8 @@ and	I-Skill	O
 agile	I-Skill	O
 working	I-Skill	O
 methods	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Further	O	O
 we	O	O
@@ -10685,7 +10792,8 @@ and	O	O
 excellent	O	O
 coordination	B-Skill	O
 skills	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -10698,7 +10806,8 @@ cultivate	B-Skill	O
 the	I-Skill	O
 best	I-Skill	O
 performances	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Your	O	O
 approach	O	O
@@ -10728,7 +10837,8 @@ and	O	O
 are	O	O
 very	O	O
 result-oriented	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Additionally	O	O
 we	O	O
@@ -10748,7 +10858,8 @@ management	I-Skill	O
 and	O	O
 communication	B-Skill	O
 skills	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Candidates	O	O
 who	O	O
@@ -10813,6 +10924,7 @@ is	O	O
 July	O	O
 2016.	O	O
 
+###
 Organization	O	O
 Name:	O	O
 Cement	O	O
@@ -11004,7 +11116,8 @@ and	I-Skill	O
 with	I-Skill	O
 top-class	I-Skill	O
 quality	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 In	O	O
 detail	O	O
@@ -11104,7 +11217,8 @@ complex	I-Skill	O
 products	I-Skill	O
 or	I-Skill	O
 services	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 For	O	O
 that	O	O
@@ -11142,7 +11256,8 @@ a	I-Skill	O
 complex	I-Skill	O
 organisational	I-Skill	O
 setting	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 have	O	O
@@ -11159,7 +11274,8 @@ technical	I-Skill	O
 and	I-Skill	O
 commercial	I-Skill	O
 matters	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 thrive	O	O
@@ -11206,7 +11322,8 @@ organisations	I-Skill	O
 capacity	I-Skill	O
 to	I-Skill	O
 deliver	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 This	O	O
 requires	O	O
@@ -11224,7 +11341,8 @@ positive	B-Skill	O
 and	I-Skill	O
 cooperative	I-Skill	O
 mindset	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Additional	O	O
 Details	O	O
@@ -11468,6 +11586,7 @@ business	O	O
 and	O	O
 services.	O	O
 
+###
 At	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -11647,7 +11766,8 @@ from	I-Skill	O
 start	I-Skill	O
 to	I-Skill	O
 closure	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 This	O	O
 takes	O	O
@@ -11701,7 +11821,8 @@ schedules	I-Skill	O
 and	I-Skill	O
 project	I-Skill	O
 economy	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Finally	O	O
 you	O	O
@@ -11715,7 +11836,8 @@ motivated	I-Skill	O
 and	I-Skill	O
 on	I-Skill	O
 track	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Can	O	O
 you	O	O
@@ -11792,7 +11914,8 @@ as	O	O
 the	O	O
 budget	B-Skill	O
 responsible	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 probably	O	O
@@ -11823,7 +11946,8 @@ aspects	I-Skill	O
 of	I-Skill	O
 a	I-Skill	O
 project	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 remain	O	O
@@ -11905,6 +12029,7 @@ the	O	O
 right	O	O
 candidate.	O	O
 
+###
 Do	O	O
 you	O	O
 have	O	O
@@ -12085,7 +12210,8 @@ commitment	I-Skill	O
 from	I-Skill	O
 our	I-Skill	O
 stakeholders	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Learn	O	O
 from	O	O
@@ -12136,7 +12262,8 @@ to	O	O
 marketing	O	B-Knowledge
 and	O	O
 sales	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 position	O	O
@@ -12216,7 +12343,8 @@ yourself	I-Skill	O
 with	I-Skill	O
 new	I-Skill	O
 projects	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Alternatively	O	O
 you	O	O
@@ -12261,7 +12389,8 @@ to	O	O
 lead	B-Skill	O
 projects	I-Skill	O
 independently	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 An	O	O
 excellent	O	O
@@ -12309,7 +12438,8 @@ many	I-Skill	O
 markets	I-Skill	O
 and	I-Skill	O
 stakeholders	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Your	O	O
 level	O	O
@@ -12335,7 +12465,8 @@ come	B-Skill	O
 up	I-Skill	O
 with	I-Skill	O
 ambitious	I-Skill	O
-solutions.	I-Skill	O
+solutions.	O	O
+
 
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -12368,7 +12499,8 @@ snow	I-Skill	O
 and	O	O
 grooming	B-Skill	O
 slopes	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Skills:	O	O
 Experience	O	O
@@ -12378,7 +12510,8 @@ and	O	O
 grooming	B-Skill	O
 alpine	I-Skill	O
 slopes	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Salary:	O	O
 Mininum	O	O
@@ -12439,6 +12572,7 @@ E:	O	O
 <CONTACT>	O	O
 <CONTACT>	O	O
 
+###
 At	O	O
 the	O	O
 <ORGANIZATION>	O	O
@@ -12687,7 +12821,8 @@ yet	I-Skill	O
 dynamic	I-Skill	O
 pricing	I-Skill	O
 structure	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Your	O	O
 advice	O	O
@@ -12732,7 +12867,8 @@ the	I-Skill	O
 annual	I-Skill	O
 pricing	I-Skill	O
 process	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Covering	O	O
 this	O	O
@@ -12756,7 +12892,8 @@ our	I-Skill	O
 price	I-Skill	O
 management	I-Skill	O
 system	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Your	O	O
 focus	O	O
@@ -12789,7 +12926,8 @@ changes	I-Skill	O
 in	I-Skill	O
 external	I-Skill	O
 prices	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 This	O	O
 is	O	O
@@ -12850,7 +12988,8 @@ have	O	O
 a	O	O
 business-oriented	B-Skill	O
 approach	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Relying	B-Skill	O
 on	I-Skill	O
@@ -13138,6 +13277,7 @@ soon	O	O
 as	O	O
 possible.	O	O
 
+###
 This	O	O
 rapidly	O	O
 growing	O	O
@@ -13355,7 +13495,8 @@ while	O	O
 keeping	B-Skill	O
 COGS	I-Skill	O
 incheck	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -13381,7 +13522,8 @@ design	I-Skill	O
 and	I-Skill	O
 materialize	I-Skill	O
 innovativesolutions	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -13454,7 +13596,8 @@ to	I-Skill	O
 incidents	I-Skill	O
 in	I-Skill	O
 production	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 A	O	O
 couple	O	O
@@ -13633,7 +13776,8 @@ leadership	I-Skill	O
 in	I-Skill	O
 a	I-Skill	O
 team	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Excellent	O	O
 design	B-Skill	O
@@ -13657,7 +13801,8 @@ Professional	O	O
 fluency	O	O
 in	O	O
 English	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Desire	O	O
 to	O	O
@@ -13668,7 +13813,8 @@ data	I-Skill	O
 and	O	O
 continuously	B-Skill	O
 improve	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 <ORGANIZATION>	O	O
 is	O	O
@@ -13760,6 +13906,7 @@ where	O	O
 you	O	O
 work.	O	O
 
+###
 We	O	O
 are	O	O
 searching	O	O
@@ -13805,7 +13952,8 @@ noodles	O	B-Knowledge
 and	O	O
 handmade	O	B-Knowledge
 dumplings	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Experience	O	O
 in	O	O
@@ -13868,6 +14016,7 @@ to	O	O
 <CONTACT>	O	O
 <CONTACT>	O	O
 
+###
 <LOCATION>	O	O
 /	O	O
 Local	O	O
@@ -14088,7 +14237,8 @@ with	O	O
 excellent	O	O
 financial	B-Skill	O
 support	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 More	O	O
 specifically	O	O
@@ -14246,7 +14396,8 @@ and	O	O
 ability	O	O
 to	O	O
 prioritize	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 can	O	O
@@ -14255,7 +14406,8 @@ independently	I-Skill	O
 and	I-Skill	O
 in	I-Skill	O
 teams	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 are	O	O
@@ -14264,7 +14416,8 @@ and	O	O
 a	O	O
 strong	O	O
 communicator	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 hold	O	O
@@ -14292,7 +14445,8 @@ communicate	O	O
 fluently	O	O
 in	O	O
 English	O	B-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 For	O	O
 further	O	O
@@ -14448,6 +14602,7 @@ ambitious	O	O
 career	O	O
 goals.	O	O
 
+###
 Research	O	O
 <ORGANIZATION>	O	O
 Do	O	O
@@ -14641,7 +14796,8 @@ pre-clinical	I-Skill	O
 drug	I-Skill	O
 discovery	I-Skill	O
 projects	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Much	O	O
 of	O	O
@@ -14704,7 +14860,8 @@ of	I-Skill	O
 the	I-Skill	O
 available	I-Skill	O
 data	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -14730,7 +14887,8 @@ scientists	I-Skill	O
 with	I-Skill	O
 diverse	I-Skill	O
 backgrounds	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Qualifications	O	O
 
@@ -14983,6 +15141,7 @@ and	O	O
 personal	O	O
 development.	O	O
 
+###
 The	O	O
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
@@ -15061,7 +15220,8 @@ based	O	O
 on	O	O
 eDNA	B-Skill	O
 analysis	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 role	O	O
@@ -15081,7 +15241,8 @@ with	O	O
 international	B-Skill	O
 research	I-Skill	O
 collaboration	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Documented	O	O
 experiencewith	O	O
@@ -15186,7 +15347,8 @@ analysis	I-Skill	O
 in	I-Skill	O
 multidisciplinary	I-Skill	O
 work	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Applicants	O	O
 are	O	O
@@ -15753,6 +15915,7 @@ at	O	O
 <CONTACT>	O	O
 ;	O	O
 
+###
 Global	O	O
 order	O	O
 execution	O	O
@@ -15932,7 +16095,8 @@ within	O	O
 the	O	O
 industrial/Marine	O	B-Knowledge
 market	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 English	O	O
 spoken	O	O
@@ -15966,7 +16130,8 @@ level	I-Skill	O
 and	O	O
 be	O	O
 self-driven	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Furthermore	O	O
 the	O	O
@@ -15985,7 +16150,8 @@ easy	B-Skill	O
 to	I-Skill	O
 cooperate	I-Skill	O
 with	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 offer	O	O
@@ -16115,6 +16281,7 @@ more	O	O
 at:	O	O
 <CONTACT>	O	O
 
+###
 About	O	O
 Us	O	O
 
@@ -16309,7 +16476,8 @@ skills	O	O
 within	O	O
 process	O	B-Knowledge
 optimization	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Join	O	O
 a	O	O
@@ -16407,7 +16575,8 @@ ensure	B-Skill	O
 successful	I-Skill	O
 project	I-Skill	O
 completion	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Lead	O	O
 our	O	O
@@ -16473,7 +16642,8 @@ of	I-Skill	O
 policies	I-Skill	O
 and	I-Skill	O
 procedures	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Drive	B-Skill	O
 the	I-Skill	O
@@ -16495,7 +16665,8 @@ requests	I-Skill	O
 regarding	I-Skill	O
 data	I-Skill	O
 protection	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Drive	B-Skill	O
 our	I-Skill	O
@@ -16555,7 +16726,8 @@ of	I-Skill	O
 our	I-Skill	O
 SOX	I-Skill	O
 controls	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Moreover	O	O
 you	O	O
@@ -16586,7 +16758,8 @@ Experience	O	O
 with	O	O
 compliance	O	B-Knowledge
 implementation	O	I-Knowledge
-Constructive O B-Knowledge O Diversity	O	I-Knowledge
+Constructive O B-Knowledge
+Diversity	O	I-Knowledge
 is	O	O
 one	O	O
 of	O	O
@@ -16678,7 +16851,8 @@ expertise	O	O
 in	O	O
 protecting	B-Skill	O
 data	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Knowledge	O	O
 of	O	O
@@ -16718,7 +16892,8 @@ concrete	I-Skill	O
 data	I-Skill	O
 protection	I-Skill	O
 practices	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 speak	O	O
@@ -16759,7 +16934,8 @@ spar	B-Skill	O
 with	I-Skill	O
 relevant	I-Skill	O
 stakeholders	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 know	O	O
@@ -16800,7 +16976,8 @@ you	O	O
 gather	B-Skill	O
 new	I-Skill	O
 information	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 We	O	O
 offer	O	O
@@ -16954,7 +17131,8 @@ application	O	O
 process	O	O
 by	O	O
 pressing	O	O
-Apply O O O Online	O	O
+Apply	O	O
+Online	O	O
 and	O	O
 follow	O	O
 the	O	O
@@ -17187,6 +17365,7 @@ Location:	O	O
 Schedule:	O	O
 Full-time	O	O
 
+###
 Pioneer	O	O
 a	O	O
 brighter	O	O
@@ -17372,7 +17551,8 @@ and	I-Skill	O
 future	I-Skill	O
 customer	I-Skill	O
 needs	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -17508,7 +17688,8 @@ or	O	O
 a	O	O
 commercial	O	B-Knowledge
 direction	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Travelling	O	O
 activities	O	O
@@ -17711,9 +17892,10 @@ Area:	O	O
 Supply	O	O
 Chain	O	O
 
-MEP	O	O
-Cleaning	O	O
-APS	O	O
+###
+<ORGANIZATION>	O	O
+<ORGANIZATION>	O	O
+<ORGANIZATION>	O	O
 are	O	O
 looking	O	O
 for	O	O
@@ -17721,7 +17903,8 @@ new	O	O
 staff	O	O
 to	O	O
 housekeeping	B-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Working	O	O
 place	O	O
@@ -17768,6 +17951,7 @@ for	O	O
 every	O	O
 month	O	O
 
+###
 <ORGANIZATION>	O	O
 <ORGANIZATION>	O	O
 is	O	O
@@ -17810,7 +17994,8 @@ plans	I-Skill	O
 for	I-Skill	O
 international	I-Skill	O
 scaling	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 About	O	O
 <ORGANIZATION>	O	O
@@ -18238,7 +18423,8 @@ for	O	I-Knowledge
 technology	O	I-Knowledge
 based	O	I-Knowledge
 startups	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Have	O	O
 project	O	B-Knowledge
@@ -18253,7 +18439,8 @@ startups	O	I-Knowledge
 and	O	I-Knowledge
 established	O	I-Knowledge
 companies	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 Have	O	O
 experience	O	O
@@ -18717,7 +18904,8 @@ in	O	O
 in	O	O
 Greenland.	O	O
 
--?Finance	O	O
+###
+Finance	O	O
 <LOCATION>	O	O
 -	O	O
 <ORGANIZATION>	O	O
@@ -18890,7 +19078,8 @@ a	O	O
 solid	O	O
 business	B-Skill	O
 understanding	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 position	O	O
@@ -18962,7 +19151,8 @@ and	O	O
 balance	B-Skill	O
 scorecard	I-Skill	O
 follow-ups	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 will	O	O
@@ -19080,7 +19270,8 @@ reporting	O	B-Knowledge
 and	O	O
 project	O	B-Knowledge
 management	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 On	O	O
 top	O	O
@@ -19097,7 +19288,8 @@ drive	B-Skill	O
 financial	I-Skill	O
 processes	I-Skill	O
 forward	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 You	O	O
 have	O	O
@@ -19163,7 +19355,8 @@ user	O	O
 in	O	O
 Microsoft	O	B-Knowledge
 Office	O	I-Knowledge
-.	O	I-Knowledge
+.	O	O
+
 
 The	O	O
 atmosphere	O	O
@@ -19337,6 +19530,7 @@ Deadline	O	O
 September	O	O
 2017.	O	O
 
+###
 We	O	O
 are	O	O
 looking	O	O
@@ -19799,7 +19993,8 @@ guidelines	I-Skill	O
 and	I-Skill	O
 regulatory	I-Skill	O
 requirements	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Qualifications:	O	O
 Documented	O	O
@@ -19853,7 +20048,8 @@ national	I-Skill	O
 and	I-Skill	O
 international	I-Skill	O
 stakeholders	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 Personal	O	O
 qualifications	O	O
@@ -19870,7 +20066,8 @@ systematic	B-Skill	O
 and	O	O
 service	B-Skill	O
 minded	I-Skill	O
-.	I-Skill	O
+.	O	O
+
 
 The	O	O
 right	O	O
