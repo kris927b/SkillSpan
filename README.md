@@ -5,7 +5,7 @@ This repository contains the code and data for the paper:
 
 Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, and Barbara Plank. To appear at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2022
 
-See an small demo here: https://huggingface.co/spaces/jjzha/skill_extraction_demo
+See a small demo here: https://huggingface.co/spaces/jjzha/skill_extraction_demo
 
 If you use the code, data, guidelines, models from SkillSpan, please include the following reference:
 
