@@ -65,10 +65,6 @@ Python <\t> O <\t> B-Knowledge
 
 Place all the data in `data/Skills`
 
-### Licensing
-
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-
 ## Running the code
 
 ### Installing the requirements
