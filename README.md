@@ -75,6 +75,8 @@ To install all the required packagse run the following command
 pip3 install --user -r machamp/requirements.txt
 ```
 
+Code is ran on `python 3.6` and `torch 1.7.0` (`pip3 install torch==1.7.0+cu110 -f https://download.pytorch.org/whl/torch_stable.html`)
+
 ### 1. Running everything
 
 Once you have installed the required packages, you are now ready to run the experiments. 
