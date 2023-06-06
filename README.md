@@ -51,7 +51,7 @@ $ git submodule update --init --recursive
 ## Data set acquisition
 
 As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations.
-Please find the data in `data/Skills/*`. We indicate each job posting by a `###` separation.
+Please find the data in `data/Skills/*`.
 
 The data is structured in the `conll` format:
 
