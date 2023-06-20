@@ -51,7 +51,7 @@ $ git submodule update --init --recursive
 ## Data set acquisition
 
 As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations.
-Please find the data in `data/Skills/*`. We indicate each job posting by a `###` separation.
+Please find the data in `data/Skills/*`.
 
 The data is structured in the `conll` format:
 
@@ -74,6 +74,8 @@ To install all the required packagse run the following command
 ```
 pip3 install --user -r machamp/requirements.txt
 ```
+
+Code is ran on `python 3.6` and `torch 1.7.0` (`pip3 install torch==1.7.0+cu110 -f https://download.pytorch.org/whl/torch_stable.html`)
 
 ### 1. Running everything
 
