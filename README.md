@@ -65,6 +65,28 @@ Python <\t> O <\t> B-Knowledge
 
 Place all the data in `data/Skills`
 
+16 Aug 2023: We have also made `json` files available in `data/json/`. The format is as follows
+
+```
+{
+    "idx": 54,
+    "tokens": ["Travelling", "activities", "of", "max", "20", "days", "should", "be", "expected", "."],
+    "tags_skill": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"],
+    "tags_knowledge": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"],
+    "source": "house"
+}
+```
+`idx`: id of job posting, note that `idx` count restarts per split (i.e., train, dev, test)
+
+`tokens`:  tokenized sentence from the job posting
+
+`tags_skill`: skill tags in BIO format
+
+`tags_knowledge`: knowledge tags in BIO format
+
+`source`: source of the sentence (`house` or `tech`)
+
+
 ## Running the code
 
 ### Installing the requirements
