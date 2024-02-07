@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for model in bert spanbert jobbert jobspanbert
+for model in bert spanbert jobbert jobspanbert longformer
 do
         for exp in skills knowledge multi
         do
