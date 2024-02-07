@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-python3 scripts/evaluation/significance.py
+python3 ~/SkillSpan/scripts/evaluation/significance.py
 

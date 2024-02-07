@@ -7,7 +7,7 @@ for c in 3477689 4213916 8749520 6828303 9364029
 do
 
     echo "Training $MODEL on $PARAMETERS using seed $c"
-    python3 machamp/train.py \
+    python3 ~/SkillSpan/machamp/train.py \
         --dataset_configs configs/$PARAMETERS.json \
         --parameters_config configs/$MODEL.json \
         --name skill.$MODEL.$PARAMETERS.$c \

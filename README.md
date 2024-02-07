@@ -108,7 +108,7 @@ We have provided three different scripts for running the experiments.
 To run everything in the paper, simply call:
 
 ```
-bash scripts/run.all.sh
+bash scripts/training/run.all.sh
 ```
 
 ### 1.1 Running individual experiments
@@ -121,7 +121,7 @@ One for running an experiment on all 5 seeds:
 MODEL = bert | jobbert | spanbert | jobspanbert
 EXPERIMENT = skills | knowledge | multi
 
-bash scripts/run.experiment.sh $MODEL $EXPERIMENT
+bash scripts/training/run.experiment.sh $MODEL $EXPERIMENT
 ```
 
 And another one for running individual seed numbers within an experiment:
@@ -131,7 +131,7 @@ MODEL = bert | jobbert | spanbert | jobspanbert
 EXPERIMENT = skills | knowledge | multi
 SEED = 1-5
 
-bash scripts/run.individual.sh $MODEL $EXPERIMENT $SEED
+bash scripts/training/run.individual.sh $MODEL $EXPERIMENT $SEED
 ```
 
 ### 2. Predicting on dev and test set
@@ -143,13 +143,13 @@ MODEL = bert | jobbert | spanbert | jobspanbert
 TYPE = skills | knowledge | multi
 SET = dev | test
 
-bash scripts/run.predict.sh $MODEL $TYPE $SET
+bash scripts/evaluation/run.predict.sh $MODEL $TYPE $SET
 ```
 
 or
 
 ```
-bash scripts/run.predict.all.sh
+bash scripts/evaluation/run.predict.all.sh
 ```
 
 
@@ -158,7 +158,7 @@ bash scripts/run.predict.all.sh
 To evaluate the models performance run 
 
 ```
-bash scripts/run.evaluate.sh
+bash scripts/evaluation/run.evaluate.sh
 ```
 
 This will generate a bunch of metric files in which you can find the results.
@@ -168,7 +168,7 @@ This will generate a bunch of metric files in which you can find the results.
 To create the ASO stats for the models run
 
 ```
-bash scripts/run.significance.sh
+bash scripts/evaluation/run.significance.sh
 ```
 
 This will generate the ASO scores for all experiments present in the metrics folder produced by the evaluate script. 
