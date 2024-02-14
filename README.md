@@ -48,6 +48,9 @@ $ git clone https://github/kris927b/SkillSpan.git
 $ git submodule update --init --recursive
 ```
 
+**Since 14 Feb 2024, we are using the new version of MaChAmp (not dependant on AllenNLP), therefore if you run into MaChAmp-related
+issues, we would suggest asking on their github repository: https://github.com/machamp-nlp/**
+
 ## Data set acquisition
 
 As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations.
@@ -108,7 +111,7 @@ We have provided three different scripts for running the experiments.
 To run everything in the paper, simply call:
 
 ```
-bash scripts/run.all.sh
+bash scripts/training/run.all.sh
 ```
 
 ### 1.1 Running individual experiments
@@ -121,7 +124,7 @@ One for running an experiment on all 5 seeds:
 MODEL = bert | jobbert | spanbert | jobspanbert
 EXPERIMENT = skills | knowledge | multi
 
-bash scripts/run.experiment.sh $MODEL $EXPERIMENT
+bash scripts/training/run.experiment.sh $MODEL $EXPERIMENT
 ```
 
 And another one for running individual seed numbers within an experiment:
@@ -129,9 +132,9 @@ And another one for running individual seed numbers within an experiment:
 ```
 MODEL = bert | jobbert | spanbert | jobspanbert
 EXPERIMENT = skills | knowledge | multi
-SEED = 1-5
+SEED = 3477689 | 4213916 | 8749520 | 6828303 | 9364029
 
-bash scripts/run.individual.sh $MODEL $EXPERIMENT $SEED
+bash scripts/training/run.individual.sh $MODEL $EXPERIMENT $SEED
 ```
 
 ### 2. Predicting on dev and test set
@@ -143,13 +146,13 @@ MODEL = bert | jobbert | spanbert | jobspanbert
 TYPE = skills | knowledge | multi
 SET = dev | test
 
-bash scripts/run.predict.sh $MODEL $TYPE $SET
+bash scripts/evaluation/run.predict.sh $MODEL $TYPE $SET
 ```
 
 or
 
 ```
-bash scripts/run.predict.all.sh
+bash scripts/evaluation/run.predict.all.sh
 ```
 
 
@@ -158,7 +161,7 @@ bash scripts/run.predict.all.sh
 To evaluate the models performance run 
 
 ```
-bash scripts/run.evaluate.sh
+bash scripts/evaluation/run.evaluate.sh
 ```
 
 This will generate a bunch of metric files in which you can find the results.
@@ -168,7 +171,32 @@ This will generate a bunch of metric files in which you can find the results.
 To create the ASO stats for the models run
 
 ```
-bash scripts/run.significance.sh
+bash scripts/evaluation/run.significance.sh
 ```
 
 This will generate the ASO scores for all experiments present in the metrics folder produced by the evaluate script. 
+
+# Credits
+
+Credits goes to the MaChAmp library: https://github.com/machamp-nlp/
+
+If you use it, cite it with this:
+
+```
+@inproceedings{van-der-goot-etal-2021-massive,
+    title = "Massive Choice, Ample Tasks ({M}a{C}h{A}mp): A Toolkit for Multi-task Learning in {NLP}",
+    author = {van der Goot, Rob  and
+      {\"U}st{\"u}n, Ahmet  and
+      Ramponi, Alan  and
+      Sharaf, Ibrahim  and
+      Plank, Barbara},
+    booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations",
+    month = apr,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.eacl-demos.22",
+    doi = "10.18653/v1/2021.eacl-demos.22",
+    pages = "176--197",
+}
+```
