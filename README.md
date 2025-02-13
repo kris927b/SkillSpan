@@ -54,7 +54,7 @@ issues, we would suggest asking on their github repository: https://github.com/m
 ## Data set acquisition
 
 As pointed out in the paper, we release two of the three subsets. The subsets are de-identified according to GDPR regulations.
-Please find the data in `data/Skills/*`.
+Please find the data in `data/conll/*`.
 
 The data is structured in the `conll` format:
 
@@ -66,9 +66,7 @@ Python <\t> O <\t> B-Knowledge
 ...
 ```
 
-Place all the data in `data/Skills`
-
-16 Aug 2023: We have also made `json` files available in `data/json/`. The format is as follows
+16 Aug 2023: We have also made `json` files available in `data/json/*`. The format is as follows
 
 ```
 {
